@@ -381,7 +381,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 #### [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
 
-##### []() <br>
+##### [Lecture 1 Slides](lecture1.pdf) <br>
 
 #### [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
 
