@@ -1,6 +1,5 @@
 # CSE 110 Midterm Study Guide
 
-
 ## Quick Access
 * [Lab 1 - VSCode, Markdown and Git](#lab-1---vscode-markdown-and-git)
 
@@ -60,7 +59,8 @@ The purpose of git clone is copy a remote repository into your local machine <br
 ***Bold and Italic:** `***text*** or ___text___` <br>
 
 ---
-
+[Go Back](#quick-access)
+---
 ### Lab 1 - Review and Analyis Questions
 1. **What makes Markdown appealing compared to HTML? What do we trade off?** <br>
 <br>
@@ -232,6 +232,8 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
     <br>
 
 ---
+[Go Back](#quick-access)
+---
 
 ## Lab 3 - CSS and Agile
 [See Sample questions in lecture notes](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx)<br>
@@ -271,6 +273,8 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
       * **Font size (font-size)** <br>
         * Sets the text size
   
+---
+[Go Back](#quick-access)
 ---
 
 ### Lab 3 - Review and Analysis Questions
@@ -320,6 +324,8 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
 10. **The notes suggest that many linked CSS files or imported sheets may be an anti-pattern.  Explain why.  Again think about ilities here.** <br>
     <br>
 
+---
+[Go Back](#quick-access)
 ---
 
 ## Lab 4 - JS, Diagramming and Devtools
