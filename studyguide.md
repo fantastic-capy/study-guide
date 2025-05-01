@@ -2,15 +2,15 @@
 
 
 ## Quick Access
-### [Lab 1 - VSCode, Markdown and Git](##Lab-1---VSCode,-Markdown-and-Git)
+### [Lab 1 - VSCode, Markdown and Git](#Lab-1---VSCode,-Markdown-and-Git)
 
 #### 
 
-### [Lab 2 - HTML and DevTools](##Lab-2---HTML-and-DevTools)
+### [Lab 2 - HTML and DevTools](#Lab-2---HTML-and-DevTools)
 
-### [Lab 3 - CSS and Agile](##Lab-3---CSS-and-Agile)
+### [Lab 3 - CSS and Agile](#Lab-3---CSS-and-Agile)
 
-### [Lab 4 - JS, Diagramming and Devtools](##Lab-4---JS,-Diagramming-and-Devtools)
+### [Lab 4 - JS, Diagramming and Devtools](#Lab-4---JS,-Diagramming-and-Devtools)
 
 ## Lab 1 - VSCode, Markdown and Git <br>
 
