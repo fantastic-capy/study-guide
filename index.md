@@ -132,18 +132,19 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
    Both look bold, but `<strong>` also adds meaning for screen reader (it shows importance), while `<b>` is just for style <br>
 
 3. **Why is excessive use of the &nbsp; entity that can force a space in an HTML document a " smell"?** <br>
-   <br>
+   It often means you're using spaces to fix layout problems instead of using proper CSS <br>
 
 4. **Why is it important to be careful with HTML comment use?** <br>
-   <br>
+   Comments can accidentally expose private code or confuse others if not used clearly or removed if not needed <br>
 
 5. **Why are HTML <h1> tags big text in typical browsers?  Is that coming from HTML or CSS?** <br>
-   <br>
+   The size comes from default browser CSS, not HTML itself <br>
 
 6. **Write the HTML syntax to include an image of the UCSD logo named ucsd_logo.png.   Mind aspects like accessibility.** <br>
-   <br>
+   `<img src =”ucsd_logo.png” alt=”UCSD Logo”>` <br>
 
 7. **Convert the following markdown into HTML** <br>
+   Markdown:
    ```
     ## Grocery List
 
@@ -183,7 +184,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
    ```
    **Explain the improvements that should be made both for markup, correctness, and usability.  If you don't recall from the CSS segment text-decoration controls underlining.** <br>
 
-   Use https:// in the URL so it works properly, and consider keeping underlining for better accessibility. Also, don’t rely only on color to show it’s a link. <br>
+   Use https:// in the URL so it works properly, and consider keeping underlining for better accessibility. Also, don’t rely only on color to show it’s a link. <br><br>
 
 9.  **This mark-up might be returned by an LLM or produced by one following a framework tutorial.  Comments on how it should be better?** <br>
     
@@ -205,46 +206,50 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
     ```
     <br>
 
-    Use semantic tags like `<header>`, `<nav>`, `<main>`, and `<footer>` instead of all `<div>`s. Replace clickable `<div class="btn">` with a real `<button>` for accessibility. <br>
+    Use semantic tags like `<header>`, `<nav>`, `<main>`, and `<footer>` instead of all `<div>`s. Replace clickable `<div class="btn">` with a real `<button>` for accessibility. <br><br>
 
 10.  **What is the purpose of the `<!doctype>` statement?** <br>
-    <br>
+    It tells the browser what version of HTML to expect so it can render the page correctly <br>
 
 11.  **Why might employing XHTML be useful for someone looking for a rigorous approach to web development?** <br>
-    <br>
+    XHTML requires stricter rules, which helps catch errors early and keeps code cleaner. <br>
 
 12.  **What is the idea of tag soup?  How do browsers deal with tag soup?  How does this permissiveness both help and hurt developing for the web.** <br>
-    <br>
+    Tag soup is messy or broken HTML. Browsers try to fix and display it anyway, which helps users but can hide developer mistakes. <br>
 
 13.  **Explain the idea of progressive enhancement and what it tends to be used for.** <br>
-    <br>
+    It means building a basic, working site first, then adding advanced features for better browsers. <br>
 
 14.  **Explain the idea of graceful degradation and what it ends to be used for.** <br>
-    <br>
+    It means building a full-featured site, but making sure it still works in older or simpler browsers. <br>
 
 15.  **Explain the idea of separation of concerns with HTML, CSS, and JS.  Explain the idea of locality of behavior with HTML, CSS, and JS.  Discuss the pros and cons with these ideas.** <br>
+* Separation: HTML for structure, CSS for style, JS for behavior—makes code cleaner and easier to manage.<br>
+* Locality: Keeping related HTML, CSS, and JS close can make things faster to update but harder to reuse.<br>
+* Pros: Better organization or quicker editing depending on the approach.<br>
+* Cons: Harder to manage at scale (for locality) or slower to debug (for separation).<br>
+
     <br>
 
 ---
 
 ## Lab 3 - CSS and Agile
-
-See Sample questions in lecture notes <br>
+[See Sample questions in lecture notes](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx)<br>
 
 1. **What is the use of Github issues in the agile process?** <br>
-   <br>
+   They help track tasks, bugs, and features so the team knows what to work on<br>
 
 2. **Why might one find incremental PRs an important part of the development environment?** <br>
-   <br>
+   Smaller PRs are easier to review, test, and fix reducing errors and merge conflicts<br>
 
 3. **Why should we not push straight to master/main?** <br>
-   <br>
+   It can break working code for others, changes should be reviewed first through PRs.<br>
 
 4. **What is the main idea behind standup meetings?** <br>
-   <br>
+   Quick daily meetings to share progress, plans, and blockers with the team <br>
 
 5. **Why is it generally better to keep most of the CSS in an external stylesheet instead of using inline styles or internal style blocks?** <br>
-   <br>
+   It keeps HTML cleaner, makes style reusable, and is easier to maintain or update <br>
 
 6. **Common CSS rules** <br>
    
@@ -268,19 +273,34 @@ See Sample questions in lecture notes <br>
   
 ---
 
-### Lab 2 - Review and Analysis Questions
+### Lab 3 - Review and Analysis Questions
 
 1. **Write a CSS comment with the string "CSS needs comments too!" in it.** <br>
-   <br>
+    `/* CSS needs comments too! */`<br>
 
 2. **Write a <link> tag referencing a stylesheet "print.css" to apply when printing out a page.** <br>
-   <br>
+   `<link rel="stylesheet" href="print.css" media="print">`<br>
 
 3. **Write HTML and an inline style for a paragraph containing the text - "I'm big red!" set the text to 3x bigger than the size of the font for the document and the the text color to red.** <br>
-   <br>
+   `<p style="font-size: 300%; color: red;">I'm big red!</p>`<br>
 
 4. **Write CSS selectors with an empty rule { } for** <br>
-   <br>
+   * Selecting all elements in the page <br>
+    <br>
+
+   * Selecting all `<p>` tags in class `"fancy"` <br>
+    <br>
+   * Selecting all `<a>` tags which point to secured external links. <br>
+    <br>
+
+   * Selecting all `<a>` tags within a `<nav>` tag directly in the page `<header>` <br>
+    <br>
+
+   * Selecting `<a>` tags when they are hovered. <br>
+    <br>
+
+   * Selecting a tag with the id value of `"help-info"`.<br>
+    <br>
 
 5. **Write CSS variables to set the text color and the background color. Now write a rule that uses the variables to set the contents of the <body> tag.** <br>
    <br>
@@ -305,30 +325,30 @@ See Sample questions in lecture notes <br>
 ## Lab 4 - JS, Diagramming and Devtools
 
 1. **Why should you not use var?** <br>
-   <br>
+   You should not use var because it is function-scoped and hoisted. It is better to use let or const which are block scoped and you will run into less bugs <br>
 
 2. **How do you write a message to the console?** <br>
-   <br>
+   `console.log(“Message Here”);` <br>
 
 3. **What is the difference between `const` and `let` keywords?** <br>
-   <br>
+   `const` means a variable can’t be reassigned, while `let` can be changed later <br>
 
 4. **Given a JSON object, access a member variable/some property from it.** <br>
-   <br>
+   Use dot notation: `object.property` or bracket notation `object[“property”]`<br>
 
 5. **What is the difference between the `==` and `===` operators in JavaScript** <br>
-   <br>
+   `==` compares values loosely, ignoring types where `===` compares both values and types <br>
 
 6. **Output of arithmetic/comparison operations like `'3' + 2`, `'2' < '12'`** <br>
-   <br>
+   `‘3’ + 2` returns `‘32’` which is string and `‘2’ < ‘12’` returns `false` <br>
 
 7. **What is the importance of a CI/CD pipeline?** <br>
-   <br>
+   The importance of a CI/CD pipeline is that it automates testing and deployment, making software updates faster and safer <br>
 
 8. **Is it possible to build the pipeline in its entirety?** <br>
-   <br>
+   Yes, you can fully build and up a CI/CD pipeline with the right tools <br>
 
 9.  **Is the process a one-time setup?** <br>
-    <br>
+    No, it needs update overtime as the project grows or changes <br>
 
 ---
