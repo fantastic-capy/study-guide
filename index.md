@@ -111,7 +111,8 @@ Markdown syntax: start line and end line with ```
 5.  **Name three example use cases for markdown in software engineering projects.** <br>
    * Writing README files <br>
    * Documenting APIs <br>
-   * Creating project wikis <br>
+   * Creating project wikis <br><br>
+
 
 6.  **Github has a flavor of Markdown which helps support Software Engineering projects.  Discuss a 2-3 features or small details of Github's flavor of markdown and integration that could be useful to a software project.** <br>
    * You can reference issue and pull requests with #123 <br>
