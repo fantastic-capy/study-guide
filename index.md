@@ -65,10 +65,10 @@ The purpose of git clone is copy a remote repository into your local machine <br
 ---
 ### Lab 1 - Review and Analyis Questions
 1. **What makes Markdown appealing compared to HTML? What do we trade off?** <br>
-<br>
+Markdown is simpler and quicker to use compared to HTML. We trade off full control and advance layout options that HTML offers. <br>
 
 2. **When should you avoid Markdown and opt for HTML directly?** <br>
-   <br>
+   Use HTML when you need custom styling, tables, or interactive features not supported by Markdown. <br>
 
 3. **Convert the following into Markdown:** <br>
    <br>
