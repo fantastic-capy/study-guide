@@ -16,6 +16,19 @@
 * [Lab 4 - JS, Diagramming and Devtools](#lab-4---js-diagramming-and-devtools)
 
 * [Lecture Notes](#lecture-notes)
+  
+	* [Leture 1 - Review](#leture1---review)
+  
+	* [Leture 2 - Review](#leture2---review)
+   
+	* [Leture 3 - Review](#leture3---review)
+   
+	* [Leture 4 - Review](#leture4---review)
+   
+	* [Leture 5 - Review](#leture5---review)
+   
+	* [Leture 6 - Review](#leture6---review)
+   
 
 ---
 
