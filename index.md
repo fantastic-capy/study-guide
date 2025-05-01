@@ -28,7 +28,7 @@
 	* [Lecture 5](#lecture-5)
    
 	* [Lecture 6](#lecture-6)
-	* [Other Notes](other-notes)
+	* [Markdown, HTML, CSS](markdown-html-css)
    
 
 ---
@@ -395,7 +395,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 ## Lecture Notes
 
- ### Lecture 1
+### Lecture 1
 
  * [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
 
@@ -655,7 +655,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 [Go Back](#cse-110-midterm-study-guide)
 ---
 
-### Other Notes
+### Markdown, HTML, CSS
 
 * [Lecture: Markdown](https://houses-pay-526.craft.me/I8G9rRG3qhNH9u) <br>
 
