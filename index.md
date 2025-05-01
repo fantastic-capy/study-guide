@@ -17,17 +17,17 @@
 
 * [Lecture Notes](#lecture-notes)
   
-	* [Leture 1](#leture1)
+	* [Leture 1](#leture-1)
   
-	* [Leture 2](#leture2)
+	* [Leture 2](#leture-2)
    
-	* [Leture 3](#leture3)
+	* [Leture 3](#leture-3)
    
-	* [Leture 4](#leture4)
+	* [Leture 4](#leture-4)
    
-	* [Leture 5](#leture5)
+	* [Leture 5](#leture-5)
    
-	* [Leture 6](#leture6)
+	* [Leture 6](#leture-6)
    
 
 ---
