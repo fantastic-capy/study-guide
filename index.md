@@ -17,17 +17,17 @@
 
 * [Lecture Notes](#lecture-notes)
   
-	* [Leture 1 - Review](#leture1---review)
+	* [Leture 1](#leture1)
   
-	* [Leture 2 - Review](#leture2---review)
+	* [Leture 2](#leture2)
    
-	* [Leture 3 - Review](#leture3---review)
+	* [Leture 3](#leture3)
    
-	* [Leture 4 - Review](#leture4---review)
+	* [Leture 4](#leture4)
    
-	* [Leture 5 - Review](#leture5---review)
+	* [Leture 5](#leture5)
    
-	* [Leture 6 - Review](#leture6---review)
+	* [Leture 6](#leture6)
    
 
 ---
@@ -394,11 +394,11 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 ## Lecture Notes
 
-* [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
+ ### Leture 1
+
+ * [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
 
 	* [Lecture 1 Slides](lecture1.pdf) <br>
-
- ### Leture 1 - Review
 
 1. Defining Software Engineering in Your Own Words <br>
 	* **ANSWER:** Software engineering is the process of designing, building, testing, and maintaining software in a structured and organized way. Unlike programmers who mainly write code, software engineers focus on the whole system and how all parts work together over time. <br>
@@ -433,11 +433,16 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 	* Since people are a huge aspect of software engineering is the field more related to social sciences than hard sciences?  Discuss how it is the same and how it is different than social sciences.  You may find it useful to compare SWE with other engineering disciplines like civil, aeronautical, chemical, etc. to what we do and see if they have similar challenges. Finally, ask yourself what it take to do a SWE study and how you would replicate (or not) the findings of a study.  
 <br><br>
 
+
+---
+[Go Back](#cse-110-midterm-study-guide)
+---
+
+### Leture 2
+
 * [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
 
 	* [Lecture 2 Slides](lecture2.pdf) <br>
-
-### Leture 2 - Review <br>
 
 1. 10x Developers <br>
 	* Explain the rough idea of the 10x developer in Software Engineering. How does one typically become a 10x developer? Discuss the pros and cons of a 10x developer. <br>
@@ -491,11 +496,15 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 	* Question Outcome: Doing this activity well is learning to think in reverse (bad to good or good to bad).  This ability can help you see nuances rather than fall back on binary thinking. 
 <br><br>
 
+---
+[Go Back](#cse-110-midterm-study-guide)
+---
+
+## Leture 3
+
 * [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
 
 	* [Lecture 3 Slides](lecture3.pdf) <br>
-
-## Leture 3 - Review <br>
 
 1. Visualizing the Team Life Steps <br>
 	* We have discovered that teams go thru a common set of steps.  We will use teams in this class since most software of any importance is built with teams.  To prepare ourselves for this process define the point of the step and write a few short sentences or bullets that describe what specifically would happen in this step.  Be descriptive and personal as what YOU may want to happen. <br>
@@ -534,10 +543,15 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 	* A question variation might be just to describe what Conway’s Law is and compare it to organization size or type.
 <br><br>
 
-* [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
+---
+[Go Back](#cse-110-midterm-study-guide)
+---
+ 
+ ### Lecture 4
+
+ * [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
 
 	* [Lecture 4 Slides](lecture4.pdf) <br>
- ### Lecture 4 - Review <br>
 
  1. Apply The Play Styles:Imagine if we give you scenarios, pros, cons and descriptions can you match them up to the play styles?  For example, what would be appropriate in a crisis situation?  How might you reduce bus factor via a play style etc. <br>
 
@@ -558,7 +572,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
  
  	* [Lecture 5 Slides Part 2](lecture5pt2.pdf) <br>
 
-### Lecture 5 - Review <br>
+### Lecture 5
 
 1. UCD Mantra Memorization and Understanding <br>
 	* The UCD mantras such as "You are not the user", "Don't make them wait" and many others in the summary can be quite useful to organize thoughts and keep users front of mind as we develop.  Be prepared to cite them in fill in our other forms and explain them succicnctly. <br>
@@ -599,7 +613,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 	* [Lecture 6 Slides](lecture6.pdf) <br>
 
- ### Lecture 6 - Review <br>
+ ### Lecture 6
 
 1. The AI Revolution and Process Models <br>
 	* If AI is a big change like dotCom was that spurred Agile what would imagine the process model to be adopted would be? <br>
@@ -627,6 +641,8 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 7. Thinking in Bets <br>
 	* Much of engineering, software or other forms, is about managing risk.  We would like to accomplish some task and there is likely some risk that we will not succeed.  In some sense, our choices during our engineering process are like bets.  To show your understanding of how you might employ Thinking in Bets write a concrete example of a Software Project decision you might need to make and frame it with the idea of a cost,  a reward, and some % risk.  Provide an example, of a good bet and a bad bet so you demonstrate the thought model.
 <br><br>
+
+### Other Notes
 
 * [Lecture: Markdown](https://houses-pay-526.craft.me/I8G9rRG3qhNH9u) <br>
 
