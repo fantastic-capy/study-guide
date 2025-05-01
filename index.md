@@ -17,17 +17,17 @@
 
 * [Lecture Notes](#lecture-notes)
   
-	* [Leture 1](#leture-1)
+	* [Lecture 1](#lecture-1)
   
-	* [Leture 2](#leture-2)
+	* [Lecture 2](#lecture-2)
    
-	* [Leture 3](#leture-3)
+	* [Lecture 3](#lecture-3)
    
-	* [Leture 4](#leture-4)
+	* [Lecture 4](#lecture-4)
    
-	* [Leture 5](#leture-5)
+	* [Lecture 5](#lecture-5)
    
-	* [Leture 6](#leture-6)
+	* [Lecture 6](#lecture-6)
    
 
 ---
@@ -394,7 +394,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 ## Lecture Notes
 
- ### Leture 1
+ ### Lecture 1
 
  * [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
 
@@ -438,7 +438,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 [Go Back](#cse-110-midterm-study-guide)
 ---
 
-### Leture 2
+### Lecture 2
 
 * [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
 
@@ -500,7 +500,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 [Go Back](#cse-110-midterm-study-guide)
 ---
 
-## Leture 3
+## Lecture 3
 
 * [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
 
