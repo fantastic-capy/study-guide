@@ -568,17 +568,18 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 5. The Professor suggests that we should not employ only a single style over the lifetime of software, why is it that many people seem to gravitate to one play style over the other?  Provide some concrete examples if possible. <br><br>
 
-* [Lecture 5: User Centered Design Process](https://houses-pay-526.craft.me/7zdiANnydceeYS) <br>
-
-	* [Lecture 5 Slides Part 1](lecture5pt1.pdf) <br>
- 
- 	* [Lecture 5 Slides Part 2](lecture5pt2.pdf) <br>
-
   ---
 [Go Back](#cse-110-midterm-study-guide)
 ---
 
 ### Lecture 5
+
+* [Lecture 5: User Centered Design Process](https://houses-pay-526.craft.me/7zdiANnydceeYS) <br>
+
+	* [Lecture 5 Slides Part 1](lecture5pt1.pdf) <br>
+ 
+ 	* [Lecture 5 Slides Part 2](lecture5pt2.pdf) <br>
+  
 
 1. UCD Mantra Memorization and Understanding <br>
 	* The UCD mantras such as "You are not the user", "Don't make them wait" and many others in the summary can be quite useful to organize thoughts and keep users front of mind as we develop.  Be prepared to cite them in fill in our other forms and explain them succicnctly. <br>
