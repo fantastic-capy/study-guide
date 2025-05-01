@@ -311,7 +311,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
     `#help-info { }`<br>
 
 5. **Write CSS variables to set the text color and the background color. Now write a rule that uses the variables to set the contents of the <body> tag.** <br>
-	```
+```
 	:root {
  	  --text-color: #333;
   	  --bg-color: #f9f9f9;
@@ -321,7 +321,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
   	  color: var(--text-color);
   	  background-color: var(--bg-color);
 }
- 	```
+```
    <br>
 
 6. **Why is it important to use relative measurements in CSS?  What "ilities" can you relate this advice to?** <br>
