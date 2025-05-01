@@ -102,7 +102,7 @@ The purpose of git clone is copy a remote repository into your local machine <br
 console.log("Hello Markdown");
 ```
 
-Markdown syntax: start line with ``` and end line with the same 
+Markdown syntax: start line and end line with ```
 
 <br>
 
