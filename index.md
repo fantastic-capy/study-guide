@@ -596,7 +596,24 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 	* Explain the RAIL model explanding the acronym and providing the values.  Explain why each value is important.<br>
 
 6. Evaluting the User -ilities <br>
-	* Your software may have characteristics in the form of -ilities also known as non-functional requirements.  Name the 6 ilities mentioned that are very user effecting and their meanings and provide an example of how you might verify each point.  (Hint: think about testing designs, analytics, monitors, interviews, etc.)<br>
+	* Your software may have characteristics in the form of -ilities also known as non-functional requirements.  Name the 6 ilities mentioned that are very user effecting and their meanings and provide an example of how you might verify each point.  (Hint: think about testing designs, analytics, monitors, interviews, etc.)
+
+	* Some of -ilities like security, reliability, etc. are not user focused, but many are including:
+
+ 		* The system provides the required functions - Utility <br>
+
+		* Ability to access the systems and its function - Availability <br>
+ 
+		* Ability to access the systems within acceptable time - Performance - ility :-) <br>
+
+		* Ability to be able to use the functions - Accessibility <br>
+
+		* Ability to be able to use the functions successfully  - Usability <br>
+
+		* Ability to enjoy the functions - Satisfaction (Satisfiability) <br>
+  
+	* These -ilities are architectural decisions that have to balance costs and some of them are at tension meaning that we might not be able to do everything in some perfect way (aka we must except trade-offs here) <br>
+  
 
 7. "Spooking the Animals" and Other UCD Dangers <br>
 	* Numerous examples of how we must be careful with thinking and interacting with end users to get good outcomes were talked about.  Explain the idea of "Spooking the Animals" meant and what the Prof's worry and solution.  If you can think of other fun examples along other lines that might lead a UCD process astray you can note them.  A question about this may reward more points if a student can show nuance in how they think about user focused design challenges. <br>
