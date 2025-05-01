@@ -38,7 +38,7 @@ The purpose of git clone is copy a remote repository into your local machine <br
    `git push` <br>
 
 **6. Why might branching be useful?** <br>
-   It lets you work on new features or fixes without changing the main code. ALso, you can pull request if you want to merge it with the main branch<br>
+   It lets you work on new features or fixes without changing the main code. Also, you can pull request if you want to merge it with the main branch<br>
 
 **7. Is there a single branching approach?** <br>
    No, each team can use different strategies like Git flow or trunk-based development <br>
