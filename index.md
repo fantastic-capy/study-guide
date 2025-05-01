@@ -29,7 +29,7 @@
    
 	* [Lecture 6](#lecture-6)
   
-	* [Markdown, HTML, CSS](markdown-html-css)
+	* [Markdown, HTML, CSS](#markdown-html-css)
    
 
 ---
