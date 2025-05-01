@@ -7,7 +7,7 @@
 
 * [Lab 2 - HTML and DevTools](#lab-2---html-and-devtools)
 
-  * [Lab 2 - Review and Analyis Questions](#lab-2---review-and-analyis-questions)
+  * [Lab 2 - Review and Analyis Questions](#lab-2---review-and-analysis-questions)
 
 * [Lab 3 - CSS and Agile](#lab-3---css-and-agile)
 
