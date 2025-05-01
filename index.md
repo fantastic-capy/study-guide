@@ -15,6 +15,7 @@
 
  * [Lab 4 - JS, Diagramming and Devtools](#lab-4---js-diagramming-and-devtools)
 
+* [Lecture Notes](#lecture-notes)
 ---
 
 ## Lab 1 - VSCode, Markdown and Git
@@ -373,3 +374,23 @@ Relative units like `em` or `%` help content adapt to different screens and sett
     No, it needs update overtime as the project grows or changes <br>
 
 ---
+
+## Lecture Notes
+
+#### [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
+
+#### [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
+
+#### [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
+
+#### [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
+
+#### [Lecture: Markdown](https://houses-pay-526.craft.me/I8G9rRG3qhNH9u) <br>
+
+#### [Lecture: HTML](https://houses-pay-526.craft.me/jKugncuIJRjTOT) <br>
+
+#### [Lecture 5: User Centered Design Process](https://houses-pay-526.craft.me/7zdiANnydceeYS) <br>
+
+#### [Lecture 6: Process Models Overview](https://houses-pay-526.craft.me/bzm9y0vVAxD6w9) <br>
+
+#### [Lecture: CSS](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx) <br>
