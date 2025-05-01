@@ -600,7 +600,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 	* Some of -ilities like security, reliability, etc. are not user focused, but many are including:
 
- 		* The system provides the required functions - Utility <br>
+		* The system provides the required functions - Utility <br>
 
 		* Ability to access the systems and its function - Availability <br>
  
