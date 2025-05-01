@@ -623,7 +623,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 [Go Back](#cse-110-midterm-study-guide)
 ---
 
- ### Lecture 6
+### Lecture 6
 
 1. The AI Revolution and Process Models <br>
 	* If AI is a big change like dotCom was that spurred Agile what would imagine the process model to be adopted would be? <br>
