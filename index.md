@@ -549,7 +549,7 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 [Go Back](#cse-110-midterm-study-guide)
 ---
  
- ### Lecture 4
+### Lecture 4
 
  * [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
 
