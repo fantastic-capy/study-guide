@@ -59,7 +59,7 @@ The purpose of git clone is copy a remote repository into your local machine <br
 ***Bold and Italic:** `***text*** or ___text___` <br>
 
 ---
-[Go Back](#quick-access)
+[Go Back](#cse-110-midterm-study-guide)
 ---
 ### Lab 1 - Review and Analyis Questions
 1. **What makes Markdown appealing compared to HTML? What do we trade off?** <br>
@@ -232,7 +232,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
     <br>
 
 ---
-[Go Back](#quick-access)
+[Go Back](#cse-110-midterm-study-guide)
 ---
 
 ## Lab 3 - CSS and Agile
@@ -274,7 +274,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
         * Sets the text size
   
 ---
-[Go Back](#quick-access)
+[Go Back](#cse-110-midterm-study-guide)
 ---
 
 ### Lab 3 - Review and Analysis Questions
@@ -325,7 +325,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
     <br>
 
 ---
-[Go Back](#quick-access)
+[Go Back](#cse-110-midterm-study-guide)
 ---
 
 ## Lab 4 - JS, Diagramming and Devtools
