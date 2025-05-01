@@ -28,6 +28,7 @@
 	* [Lecture 5](#lecture-5)
    
 	* [Lecture 6](#lecture-6)
+	* [Other Notes](other-notes)
    
 
 ---
@@ -572,6 +573,10 @@ Relative units like `em` or `%` help content adapt to different screens and sett
  
  	* [Lecture 5 Slides Part 2](lecture5pt2.pdf) <br>
 
+  ---
+[Go Back](#cse-110-midterm-study-guide)
+---
+
 ### Lecture 5
 
 1. UCD Mantra Memorization and Understanding <br>
@@ -613,6 +618,10 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 	* [Lecture 6 Slides](lecture6.pdf) <br>
 
+ ---
+[Go Back](#cse-110-midterm-study-guide)
+---
+
  ### Lecture 6
 
 1. The AI Revolution and Process Models <br>
@@ -641,6 +650,10 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 7. Thinking in Bets <br>
 	* Much of engineering, software or other forms, is about managing risk.  We would like to accomplish some task and there is likely some risk that we will not succeed.  In some sense, our choices during our engineering process are like bets.  To show your understanding of how you might employ Thinking in Bets write a concrete example of a Software Project decision you might need to make and frame it with the idea of a cost,  a reward, and some % risk.  Provide an example, of a good bet and a bad bet so you demonstrate the thought model.
 <br><br>
+
+---
+[Go Back](#cse-110-midterm-study-guide)
+---
 
 ### Other Notes
 
