@@ -236,7 +236,7 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
 ---
 
 ## Lab 3 - CSS and Agile
-[See Sample questions in lecture notes](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx)<br>
+[See Sample questions in lecture notes](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx) <br>
 
 1. **What is the use of Github issues in the agile process?** <br>
    They help track tasks, bugs, and features so the team knows what to work on<br>
@@ -290,39 +290,50 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
 
 4. **Write CSS selectors with an empty rule { } for** <br>
    * Selecting all elements in the page <br>
-    <br>
+    `* { }`<br>
 
    * Selecting all `<p>` tags in class `"fancy"` <br>
-    <br>
+    `p.fancy { }`<br>
    * Selecting all `<a>` tags which point to secured external links. <br>
-    <br>
+    `a[href^="https://"]:not([href*="yourdomain.com"]) { }` <br>
 
    * Selecting all `<a>` tags within a `<nav>` tag directly in the page `<header>` <br>
-    <br>
+    `header > nav > a { }` <br>
 
    * Selecting `<a>` tags when they are hovered. <br>
-    <br>
+    `a:hover { }`<br>
 
    * Selecting a tag with the id value of `"help-info"`.<br>
-    <br>
+    `#help-info { }`<br>
 
 5. **Write CSS variables to set the text color and the background color. Now write a rule that uses the variables to set the contents of the <body> tag.** <br>
+	```
+	:root {
+ 	  --text-color: #333;
+  	  --bg-color: #f9f9f9;
+	}
+
+	body {
+  	  color: var(--text-color);
+  	  background-color: var(--bg-color);
+}
+ 	```
    <br>
 
 6. **Why is it important to use relative measurements in CSS?  What "ilities" can you relate this advice to?** <br>
-   <br>
+Relative units like `em` or `%` help content adapt to different screens and settings. This supports scalability and accessibility.<br>
 
 7. **Explain from a software design point of view how CSS nesting improve our ability to write modular components?** <br>
-   <br>
+   Nesting keeps related styles together, reducing repetition. It helps in building components that are easier to reuse and maintain (modularity, readability). <br>
 
 8. **Many developers are excited about using Tailwind and its utility classes.  An example of Tailwind class syntax is shown below** <br>
-   <br>
+   Tailwind lets you style directly in HTML using short, reusable classes. This improves speed and consistency, but can clutter HTML.<br>
 
 9.  **Explain why !important is very useful and also a code smell?** <br>
-    <br>
+    `!important` forces a style to apply, which is useful for quick fixes. But it's a code smell because it breaks the normal flow and makes debugging harder.<br>
 
 10. **The notes suggest that many linked CSS files or imported sheets may be an anti-pattern.  Explain why.  Again think about ilities here.** <br>
-    <br>
+    Having many linked/imported stylesheets increases load times and complexity. It harms maintainability, performance, and scalability. <br>
 
 ---
 [Go Back](#cse-110-midterm-study-guide)
