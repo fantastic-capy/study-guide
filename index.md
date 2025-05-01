@@ -116,6 +116,10 @@ Markdown syntax: start line and end line with ```
 * You can create checklists with - [ ] <br>
 * Code block supports syntax highlighting for many coding languages <br>
 
+---
+[Go Back](#cse-110-midterm-study-guide)
+---
+
 ## Lab 2 - HTML and DevTools
 See sample questions in the HTML Lecture Notes <br>
 
