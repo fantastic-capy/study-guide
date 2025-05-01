@@ -379,22 +379,36 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 ## Lecture Notes
 
-#### [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
+* [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
 
-##### [Lecture 1 Slides](lecture1.pdf) <br>
+	* [Lecture 1 Slides](lecture1.pdf) <br>
 
-#### [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
+* [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
 
-#### [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
+	* [Lecture 2 Slides](lecture2.pdf) <br>
 
-#### [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
+* [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
 
-#### [Lecture: Markdown](https://houses-pay-526.craft.me/I8G9rRG3qhNH9u) <br>
+	* [Lecture 3 Slides](lecture3.pdf) <br>
 
-#### [Lecture: HTML](https://houses-pay-526.craft.me/jKugncuIJRjTOT) <br>
+* [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
 
-#### [Lecture 5: User Centered Design Process](https://houses-pay-526.craft.me/7zdiANnydceeYS) <br>
+	* [Lecture 4 Slides](lecture4.pdf) <br>
 
-#### [Lecture 6: Process Models Overview](https://houses-pay-526.craft.me/bzm9y0vVAxD6w9) <br>
+* [Lecture 5: User Centered Design Process](https://houses-pay-526.craft.me/7zdiANnydceeYS) <br>
 
-#### [Lecture: CSS](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx) <br>
+	* [Lecture 5 Slides Part 1](lecture5pt1.pdf) <br>
+ 
+ 	* [Lecture 5 Slides Part 2](lecture5pt2.pdf) <br>
+
+* [Lecture 6: Process Models Overview](https://houses-pay-526.craft.me/bzm9y0vVAxD6w9) <br>
+
+	* [Lecture 6 Slides](lecture6.pdf) <br>
+
+* [Lecture: Markdown](https://houses-pay-526.craft.me/I8G9rRG3qhNH9u) <br>
+
+* [Lecture: HTML](https://houses-pay-526.craft.me/jKugncuIJRjTOT) <br>
+
+* [Lecture: CSS](https://houses-pay-526.craft.me/qAdkHygjGuo1Vx) <br>
+
+---
