@@ -388,24 +388,36 @@ Relative units like `em` or `%` help content adapt to different screens and sett
  ### Leture 1 - Review
 
 1. Defining Software Engineering in Your Own Words <br>
-Software engineering is the process of designing, building, testing, and maintaining software in a structured and organized way. Unlike programmers who mainly write code, software engineers focus on the whole system and how all parts work together over time. <br>
+	* **ANSWER:** Software engineering is the process of designing, building, testing, and maintaining software in a structured and organized way. Unlike programmers who mainly write code, software engineers focus on the whole system and how all parts work together over time. <br>
 
-3. Why So Many Definitions? <br>
-<br>
+2. Why So Many Definitions? <br>
+	* **ANSWER:** There are many definitions of software engineering because it covers a wide range of tasks, tools, and roles, and people often explain it based on their own experience or focus—some think more about the planning, some about the teamwork, and others about the coding. Also, the field keeps growing and changing, so new ideas and methods keep adding to how we define it.<br>
 
-5. To Professionalize SE or Not? <br>
-<br>
+3. To Professionalize SE or Not? <br>
+	* We read a provocative paper about if Software Engineers are engineers or not.  This prompted us to write a personal statement and make a plan to understand what we wanted to be, but in this question we meet this professional engineer point head on.  Do you think it is useful for us to professionalize, to have certification, standards and practices, and so on?  Explain why you think this is a good idea and bad idea.  The best answers may argue both sides to show deep consideration.<br>
 
-7. Externalities and SE <br>
-<br>
+4. Externalities and SE <br>
+	* Throughout the course the Professor will provide examples of effects far outside the code we write.  The Professor in fact feels that the code aspect is much more predictable and under our control than anything else in the software process and these external effects often can derail all that work.   External effects might be organizational, some might be industry trends and beliefs, some economic, some could be regulatory, and on and on.   To show you understand broader effects to software and its development provide one example from the world or industry you have run across and discuss its effects on software and its creation for 1-3 paragraphs.   <br>
 
-8. Software >>> Code <br>
-<br>
+	* This should not be a hard question as examples about.  To get your started consider LLMs, Social media beliefs, VC and financialization effects, regulatory effects (ex. Apple vs EU/ DOJ), power and water use, the implication of crypto, on and on.  <br>  
 
-9. Things Learned and Views Changed (Optional - Industry or Industry Required) <br>
-<br>
+	* The purpose of this question is to reinforce a broader view of software and its societal intersection that is personal to YOU.<br>
 
-10. Could SWE be more a Social Science? <br>
+5. Software >>> Code <br>
+	* Enumerate 3 - 5 artifacts beyond the source code that is part of software.  Besides listing the artifacts explain why it is important and/or how it is used. <br>
+
+		* Requirements – A list of what the software should do. Helps make sure the right features are built. <br>
+
+		* Design Plans – Pictures or charts that show how the software works. Helps the team plan before coding. <br>
+
+		* Tests – Steps to check if the software works. Helps find and fix problems early. <br>
+
+		* User Guide – Instructions for people using the software. Helps users understand how to use it. <br>
+
+		* Project Schedule – A plan of who does what and when. Keeps the team organized and on time. <br>
+
+6. Could SWE be more a Social Science? <br>
+	* Since people are a huge aspect of software engineering is the field more related to social sciences than hard sciences?  Discuss how it is the same and how it is different than social sciences.  You may find it useful to compare SWE with other engineering disciplines like civil, aeronautical, chemical, etc. to what we do and see if they have similar challenges. Finally, ask yourself what it take to do a SWE study and how you would replicate (or not) the findings of a study.  
 <br><br>
 
 * [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
@@ -415,28 +427,56 @@ Software engineering is the process of designing, building, testing, and maintai
 ### Leture 2 - Review <br>
 
 1. 10x Developers <br>
+	* Explain the rough idea of the 10x developer in Software Engineering. How does one typically become a 10x developer? Discuss the pros and cons of a 10x developer. <br>
 
+	* Are you interested in being one of these?  If so what do you think your next steps should be? <br>
+ 
 2. Leprechaun SWE Concepts <br>
+	* At the conclusion of the 10x developer segment it was discussed that maybe the rough idea of 10x devs is right, but the specifics and "science" of this is at best dubious.  What should we really take away from this, to ignore the concept or something else entirely.  Explain your thinking.
+<br>
 
 3. Tools over people <br>
+	* Some people deeply wish that tools and technology will solve developer productivity issues.  Data and history doesn’t seem to suggest that is a good bet.  If that is the case why do you think people keep pushing the tool over people idea?  <br>
+
+	* Provide a modern example of this thinking and at least one thought that may make holding out for a big tool/tech win unlikely. <br>
 
 4. Balanced Engineers <br>
+	* What does it mean to be a “T” Shaped engineer?  Provide a short example of how a T shaped engineer might save a project or team.   To personalize this consider some aspect of your personality or interests that has helped you as a dev. <br>
 
 5. The Technical Identity Trap? <br>
+	* Complexity of platforms and systems is such that we often need to hyper-specialize to succeed especially in our careers.  Often times this can be both favorable leading to wonderful career opportunities and dangerous making us myopic in our solution findings, insufferable in our preferences, and potentially precarious in our long term career path.   To further your thoughts on that statement read the article here which presents some thoughts on this [https://sean.voisen.org/writing/insert-favorite-technology-here-guy](https://sean.voisen.org/writing/insert-favorite-technology-here-guy) as well as any other points you may find online about this concern.  Now that you have pondered the dangers of specialization provide your own short discussion of a current technology, platform, trend, etc. that you are interested in and discuss the pros and cons of specialization in it.  Make sure to provide both positive and negative thinking about outcomes and be personal in your response. <br>
 
 6. Psychology Challenges for SEs <br>
+	* What is impostor syndrome? <br>
+
+	* Why do you think developers get impostor syndrome so commonly? <br>
 
 7. Practice Makes Better <br>
+	* Purposeful practice is the way to grow your skill in mosts pursuits.  The attached blog post from the ever insightful Mandy Brown presents a challenge with this growth by practice - the gap between your ability and your taste.  Read the paper and be prepared to explain two things.  <br>
+
+		* What is the gap?  How is challenging? What we should do about it?  <br>
+  
+		* How might we characterize taste as SWEs?  <br>
+  
+ 		 * Finally note the 3 edits in red.   Take a guess what the words might have been and what some readers might have done with their inclusion.  Why were these words changed or removed?<br>
 
 8. Valuing Failures and Resiliency <br> 
+	* If failure is required to learn things describe how to approach failure in a safe way as a learning dev.  For maximum consideration make your answer personal or related to what you experienced on your team or an internship. <br>
 
 9. Industry and Societal Challenges for SEs <br>
+	* At times it feels like industry is moving so fast that anything you learn in school or even on a job is out of date before you even master it.  Figuring out coping mechanisms to address the whirlwind of change is a key skill for a software engineer these days.  Describe how you might approach this for your growth beyond this course.  Hint:  Think about dividing your learning efforts and time % wise and topic wise.<br>
 
 10. Explain Individual SE Misconceptions Using System Thinking <br>
+	* SEs are smart people and like most people we do things for real reasons.  However, as we have observed in this segment and across the industry there are many misconceptions and beliefs that seem somewhat troubling when we stop and ponder them. The Prof contends that some of our beliefs and misconceptions are likely driven by numerous forces many potentially more systems based including economics, social, regulatory, custom, convention, and more.  See if you can think of an example to support his thoughts.  Avoid just saying someone is ignorant.  If ignorance is a key component explain how that came to pass from a systems point of view.<br>
 
 11. Seniority Path and Titles <br>
+	* Write down how many years it should take to reach a Senior Engineer status.  Allow it to be a range.  Now determine what types of skills and experiences would be required to reach that status over time.  Once you have completed this task, read this commentary on titles and seniority.  Do you agree with the premise and the problems mentioned?<br>
 
-12. Good Ideas Still Go Bad? <br><br>
+12. Good Ideas Still Go Bad? <br>
+	* Some behavioral concepts, like having a less fixed mindset (aka a growth mindset) or being agreeable with people, seem pretty innocuous.  However, like all good things, it is possible that they can be twisted into something that might be problematic.  Ed Zitron wrote in The Cult of Microsoft [https://www.wheresyoured.at/the-cult-of-microsoft/](https://www.wheresyoured.at/the-cult-of-microsoft/) about this exact thing and how it can backfire.  Now, see if you can consider one of the ideas of individual behavior that seems generally correct to you and find a way to make it backfire.   <br>
+
+	* Question Outcome: Doing this activity well is learning to think in reverse (bad to good or good to bad).  This ability can help you see nuances rather than fall back on binary thinking. 
+<br><br>
 
 * [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
 
@@ -445,26 +485,41 @@ Software engineering is the process of designing, building, testing, and maintai
 ## Leture 3 - Review <br>
 
 1. Visualizing the Team Life Steps <br>
+	* We have discovered that teams go thru a common set of steps.  We will use teams in this class since most software of any importance is built with teams.  To prepare ourselves for this process define the point of the step and write a few short sentences or bullets that describe what specifically would happen in this step.  Be descriptive and personal as what YOU may want to happen. <br>
 
 2. Joining a Team <br>
+	* The quality of the process of onboarding a team member onto an existing team highly correlates to new member success.  Describe 2-3 things a team and 2-3 things the joining member can do to help make the process a success.  If you want to think of this in industry terms consider the idea of “on boarding” and what the first days or weeks of your new employment would be like in an idealized world. <br>
 
 3. Your Team <br>
+	* Don't need to answer<br>
  
 4. Leaving a Team <br>
+	* In life, the start, the finish, and the high points of the so-called messy middle is really all we remember.  The same holds for a software teams.  It is assumed, that eventually will join a team beyond school (or in this class you may drop and need to leave the team).  Describe in a bullet list what you should do in an exit and anything the team should do as well.  Hint:  The next question might help you figure this out. <br>
 
 5. How do teams survive members leaving? <br>
+	* What kind of approaches should we take to make sure a team can survive the loss of members.  Consider single loss, multiple member loss, and full team loss as separate aspects and be as specific as you can describing artifacts, activities, team practices, etc. that might be employed before, during, and after team member(s) leaves. <br>
 
 6. Characteristics of Good & Bad Teammates <br>
+	* The actions and communication patterns of team members will vary.   Describe the characteristics of good teammates as well as the tendencies and actions of bad teammates. <br>
 
 7. Team as Output <br>
+	* A software engineering pundit named Jason Gorman says that at the actual result we should focus on is more the team than the product.  This isn’t quite true since shipping software products is our task, but the though is regardless of that outcome a proper team should be produced.  Explain this thought in your own words using an example. <br>
 
 8. The Google Study <br>
+	* A Google study was conducted to figure out what makes for high functioning teams and five factors were discovered to be important.  Name and explain each of the five factors.  Now explain which is the most important factor and discuss why it would be important.  
+- or - Discuss how the idea of Psych Safety is handled on your CSE SWE team. <br>
 
 9. Bus Factor - Why and Fixes <br>
+	* Define bus factor.  Provide an example in the context of your SWE project team and how a bus factor might arise.  Now discuss what you can do mitigate this potential problem. <br>
 
 10. Team Composition and Work Type <br>
+	* Various ideas of teams and membership were discussed.  Contrasts were made between members who do all things and those who are specialists.  Discuss both ideas and explain any pro and con ideas with each.  Relating this to the type of work performed might be a useful way to ponder this question. <br>
 
 11. Conways Law <br><br>
+	* Conway’s Law suggests that the software architecture and team structure will often be a function of the organizational structure.  If this is a strict rule and we discover that the software architecture is bad, in order to address the poor architecture what might we need to do outside of just focusing on the code itself.
+
+	* A question variation might be just to describe what Conway’s Law is and compare it to organization size or type.
+<br><br>
 
 * [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
 
@@ -493,24 +548,39 @@ Software engineering is the process of designing, building, testing, and maintai
 ### Lecture 5 - Review <br>
 
 1. UCD Mantra Memorization and Understanding <br>
+	* The UCD mantras such as "You are not the user", "Don't make them wait" and many others in the summary can be quite useful to organize thoughts and keep users front of mind as we develop.  Be prepared to cite them in fill in our other forms and explain them succicnctly. <br>
 
 2. User Story Example <br>
+   	* Write an example user story for a student using a flash card app.  Be specific and use the common format for full points.  <br>
    
 3. Dangerous Pretty Pixels <br>
+	* Why should we start with rough wireframes?  What is the purpose of the roughness and what is the outcome we are looking for with the wireframing process?  What are possible problems with using higher fidelity prototypes early in a project process? <br>
 
-4. Recogniziing the "We Build Subsystems" Mental Model <br>
+4. Recognizing the "We Build Subsystems" Mental Model <br>
+	* You are going to build web based software using a tech stack of our choice that will call the OpenAPI to create "Cringe Dad Jokes" on demand. The subsystem mental moedl works from "safe" green areas Decomposition and Execution, up to yellow Form, orange Distribution, and red ("difficult to econtrol") Environment. Outside are groups of people. Demonstrate you understand the model by giving an example of choices you might make at each level. Present a risk for each level. Be specific in your examples as even the short app description contains enough information to be concrete about concerns. <br>
 
 5. The RAIL Model <br>
+	* Explain the RAIL model explanding the acronym and providing the values.  Explain why each value is important.<br>
 
 6. Evaluting the User -ilities <br>
+	* Your software may have characteristics in the form of -ilities also known as non-functional requirements.  Name the 6 ilities mentioned that are very user effecting and their meanings and provide an example of how you might verify each point.  (Hint: think about testing designs, analytics, monitors, interviews, etc.)<br>
 
 7. "Spooking the Animals" and Other UCD Dangers <br>
+	* Numerous examples of how we must be careful with thinking and interacting with end users to get good outcomes were talked about.  Explain the idea of "Spooking the Animals" meant and what the Prof's worry and solution.  If you can think of other fun examples along other lines that might lead a UCD process astray you can note them.  A question about this may reward more points if a student can show nuance in how they think about user focused design challenges. <br>
 
 8. The T Shaped Engineer <br>
+	* The idea of the T Shaped Engineer was presented in a previous section.  In this section we discussed the importance of user centeredness in the design and development process.  How would a balanced T shaped engineer have advantages over a narrower T shaped tech focused engineer?  For those, not confident in the UCD sticking to the narrow focus how will ensure end user acceptance of our software?  Instead of us being involved who would do this work and what will be the concerns or risks we might have by not being involved in UCD processes? <br>
 
 9. AI for UCD <br>
+	* Some folks have proposed that AI can be used to user centered design activities including user studies and focus.  Discuss how AI might be useful and how it very much might not be for the UCD effort? <br>
 
 10. Accessibility for All Even Bots!?! <br>
+	* When people think of accessibility they often think of extremes such as a blind user using the web.  Explain how accessibility might be more a range and use yourself showing how you may have accessibility needs now or in the future. <br>
+
+	* Is it possible that accessibility efforts can help those who may not need it?  Explain with a specific example if you can. <br>
+
+	* How can accessibility efforts potentially be helpful to AI?  Explain with a specific example if you can.  (Hint: Think of image understanding or content structure)
+<br><br>
 
 * [Lecture 6: Process Models Overview](https://houses-pay-526.craft.me/bzm9y0vVAxD6w9) <br>
 
