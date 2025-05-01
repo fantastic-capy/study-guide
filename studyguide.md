@@ -2,17 +2,23 @@
 
 
 ## Quick Access
-### [Lab 1 - VSCode, Markdown and Git](#Lab-1---VSCode,-Markdown-and-Git)
+* [Lab 1 - VSCode, Markdown and Git](#lab-1---vscode-markdown-and-git)
 
-#### 
+  * [Lab 1 - Review and Analyis Questions](#lab-1---review-and-analyis-questions)
 
-### [Lab 2 - HTML and DevTools](#Lab-2---HTML-and-DevTools)
+* [Lab 2 - HTML and DevTools](#lab-2---html-and-devtools)
 
-### [Lab 3 - CSS and Agile](#Lab-3---CSS-and-Agile)
+  * [Lab 2 - Review and Analyis Questions](#lab-2---review-and-analyis-questions)
 
-### [Lab 4 - JS, Diagramming and Devtools](#Lab-4---JS,-Diagramming-and-Devtools)
+* [Lab 3 - CSS and Agile](#lab-3---css-and-agile)
 
-## Lab 1 - VSCode, Markdown and Git <br>
+  * [Lab 3 - Review and Analyis Questions](#lab-3---review-and-analyis-questions)
+
+ * [Lab 4 - JS, Diagramming and Devtools](#lab-4---js-diagramming-and-devtools)
+
+---
+
+## Lab 1 - VSCode, Markdown and Git
 
 **1. What is the purpose of git clone?** <br>
 The purpose of git clone is copy a remote repository into your local machine <br>
@@ -90,13 +96,25 @@ The purpose of git clone is copy a remote repository into your local machine <br
 <br>
 
 4.  **Write the Markdown syntax for a code block that prints “Hello Markdown” to the console in JavaScript.  You need to write the JS code and the markdown here.** <br>
+
+```
+```javascript
+console.log("Hello Markdown");
+```
+
+Markdown syntax: start line with ``` and end line with the same 
+
 <br>
 
 5.  **Name three example use cases for markdown in software engineering projects.** <br>
-   
+   * Writing README files <br>
+   * Documenting APIs <br>
+   * Creating project wikis <br>
 
 6.  **Github has a flavor of Markdown which helps support Software Engineering projects.  Discuss a 2-3 features or small details of Github's flavor of markdown and integration that could be useful to a software project.** <br>
-   <br>
+   * You can reference issue and pull requests with #123 <br>
+* You can create checklists with - [ ] <br>
+* Code block supports syntax highlighting for many coding languages <br>
 
 ## Lab 2 - HTML and DevTools
 See sample questions in the HTML Lecture Notes <br>
@@ -107,49 +125,104 @@ Use of common html tags - p, b, i, u, h1/2/3, ul, ol
 
 ### Lab 2 - Review and Analysis Questions
 
-1. **** <br>
+1. **Why is it important to have valid mark-up?** <br>
+   It helps browser display your site correctly and makes your code easier to maintain and understand<br>
+
+2. **What is the visual difference between <b> and <strong>? Is there another difference we should be concerned with?** <br>
+   Both look bold, but `<strong>` also adds meaning for screen reader (it shows importance), while `<b>` is just for style <br>
+
+3. **Why is excessive use of the &nbsp; entity that can force a space in an HTML document a " smell"?** <br>
    <br>
 
-2. **** <br>
+4. **Why is it important to be careful with HTML comment use?** <br>
    <br>
 
-3. **** <br>
+5. **Why are HTML <h1> tags big text in typical browsers?  Is that coming from HTML or CSS?** <br>
    <br>
 
-4. **** <br>
+6. **Write the HTML syntax to include an image of the UCSD logo named ucsd_logo.png.   Mind aspects like accessibility.** <br>
    <br>
 
-5. **** <br>
+7. **Convert the following markdown into HTML** <br>
+   ```
+    ## Grocery List
+
+   * Eggs
+   * Drinks
+     1. Soda
+     2. Milk
+     3. Bottled Water
+   * Steak
+   ```
+    HTML:
+
+    ```html
+    <h2>Grocery List</h2>
+    <ul>
+        <li>Eggs</li>
+        <li>Drinks
+            <ol>
+                <li>Soda</li>
+                <li>Milk</li>
+                <li>Bottled Water</li>
+            </ol>
+        </li>
+        <li>Steak</li>
+    </ul>
+    ```
+   
    <br>
 
-6. **** <br>
-   <br>
+8. **Given the following mark-up** <br>
+   ```
+    <div class="paragraph">Visit our partner: 
+    <a href="www.partner.com/page" style="color: black; text-decoration: none;">
+    Click here
+    </a>
+    </div>
+   ```
+   **Explain the improvements that should be made both for markup, correctness, and usability.  If you don't recall from the CSS segment text-decoration controls underlining.** <br>
 
-7. **** <br>
-   <br>
+   Use https:// in the URL so it works properly, and consider keeping underlining for better accessibility. Also, don’t rely only on color to show it’s a link. <br>
 
-8. **** <br>
-   <br>
-
-9.  **** <br>
+9.  **This mark-up might be returned by an LLM or produced by one following a framework tutorial.  Comments on how it should be better?** <br>
+    
+    ```
+    <div class="header">My Site</div>
+    <div class="nav">
+	    <div class="nav-item">Home</div>
+	    <div class="nav-item">About</div>
+    </div>
+    <div class="main">
+	    <div class="section-title">Welcome</div>
+	    <div class="text">Thanks for visiting!</div>
+    </div>
+    <div class="footer">
+	    <div class="contact-form">
+		    <div class="btn" onclick="submitForm()">Submit</div>
+	    </div>
+    </div>
+    ```
     <br>
 
-10. **** <br>
+    Use semantic tags like `<header>`, `<nav>`, `<main>`, and `<footer>` instead of all `<div>`s. Replace clickable `<div class="btn">` with a real `<button>` for accessibility. <br>
+
+10.  **What is the purpose of the `<!doctype>` statement?** <br>
     <br>
 
-11. **** <br>
+11.  **Why might employing XHTML be useful for someone looking for a rigorous approach to web development?** <br>
     <br>
 
-12. **** <br>
+12.  **What is the idea of tag soup?  How do browsers deal with tag soup?  How does this permissiveness both help and hurt developing for the web.** <br>
     <br>
 
-13. **** <br>
+13.  **Explain the idea of progressive enhancement and what it tends to be used for.** <br>
     <br>
 
-14. **** <br>
+14.  **Explain the idea of graceful degradation and what it ends to be used for.** <br>
     <br>
 
-15. **** <br>
+15.  **Explain the idea of separation of concerns with HTML, CSS, and JS.  Explain the idea of locality of behavior with HTML, CSS, and JS.  Discuss the pros and cons with these ideas.** <br>
     <br>
 
 ---
@@ -259,4 +332,3 @@ See Sample questions in lecture notes <br>
     <br>
 
 ---
-
