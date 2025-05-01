@@ -385,17 +385,104 @@ Relative units like `em` or `%` help content adapt to different screens and sett
 
 	* [Lecture 1 Slides](lecture1.pdf) <br>
 
+ ### Leture 1 - Review
+
+1. Defining Software Engineering in Your Own Words <br>
+Software engineering is the process of designing, building, testing, and maintaining software in a structured and organized way. Unlike programmers who mainly write code, software engineers focus on the whole system and how all parts work together over time. <br>
+
+3. Why So Many Definitions? <br>
+<br>
+
+5. To Professionalize SE or Not? <br>
+<br>
+
+7. Externalities and SE <br>
+<br>
+
+8. Software >>> Code <br>
+<br>
+
+9. Things Learned and Views Changed (Optional - Industry or Industry Required) <br>
+<br>
+
+10. Could SWE be more a Social Science? <br>
+<br><br>
+
 * [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
 
 	* [Lecture 2 Slides](lecture2.pdf) <br>
+
+### Leture 2 - Review <br>
+
+1. 10x Developers <br>
+
+2. Leprechaun SWE Concepts <br>
+
+3. Tools over people <br>
+
+4. Balanced Engineers <br>
+
+5. The Technical Identity Trap? <br>
+
+6. Psychology Challenges for SEs <br>
+
+7. Practice Makes Better <br>
+
+8. Valuing Failures and Resiliency <br> 
+
+9. Industry and Societal Challenges for SEs <br>
+
+10. Explain Individual SE Misconceptions Using System Thinking <br>
+
+11. Seniority Path and Titles <br>
+
+12. Good Ideas Still Go Bad? <br><br>
 
 * [Lecture 3: Groups](https://houses-pay-526.craft.me/22hg03hlJlPkBG) <br>
 
 	* [Lecture 3 Slides](lecture3.pdf) <br>
 
+## Leture 3 - Review <br>
+
+1. Visualizing the Team Life Steps <br>
+
+2. Joining a Team <br>
+
+3. Your Team <br>
+ 
+4. Leaving a Team <br>
+
+5. How do teams survive members leaving? <br>
+
+6. Characteristics of Good & Bad Teammates <br>
+
+7. Team as Output <br>
+
+8. The Google Study <br>
+
+9. Bus Factor - Why and Fixes <br>
+
+10. Team Composition and Work Type <br>
+
+11. Conways Law <br><br>
+
 * [Lecture 4: Groups - Work Patterns](https://houses-pay-526.craft.me/kWQ3qUEctR4yNc) <br>
 
 	* [Lecture 4 Slides](lecture4.pdf) <br>
+ ### Lecture 4 - Review <br>
+
+ 1. Apply The Play Styles:Imagine if we give you scenarios, pros, cons and descriptions can you match them up to the play styles?  For example, what would be appropriate in a crisis situation?  How might you reduce bus factor via a play style etc. <br>
+
+2. Why is it essential to have a definition of done? <br>
+
+
+3. Why is documentation so necessary in light of team efficiency and member tenure? <br>
+
+
+4. What is the concept of promiscuous pairing?  What are good aspects about it?  What are bad aspects about it? <br>
+
+
+5. The Professor suggests that we should not employ only a single style over the lifetime of software, why is it that many people seem to gravitate to one play style over the other?  Provide some concrete examples if possible. <br><br>
 
 * [Lecture 5: User Centered Design Process](https://houses-pay-526.craft.me/7zdiANnydceeYS) <br>
 
@@ -403,9 +490,60 @@ Relative units like `em` or `%` help content adapt to different screens and sett
  
  	* [Lecture 5 Slides Part 2](lecture5pt2.pdf) <br>
 
+### Lecture 5 - Review <br>
+
+1. UCD Mantra Memorization and Understanding <br>
+
+2. User Story Example <br>
+   
+3. Dangerous Pretty Pixels <br>
+
+4. Recogniziing the "We Build Subsystems" Mental Model <br>
+
+5. The RAIL Model <br>
+
+6. Evaluting the User -ilities <br>
+
+7. "Spooking the Animals" and Other UCD Dangers <br>
+
+8. The T Shaped Engineer <br>
+
+9. AI for UCD <br>
+
+10. Accessibility for All Even Bots!?! <br>
+
 * [Lecture 6: Process Models Overview](https://houses-pay-526.craft.me/bzm9y0vVAxD6w9) <br>
 
 	* [Lecture 6 Slides](lecture6.pdf) <br>
+
+ ### Lecture 6 - Review <br>
+
+1. The AI Revolution and Process Models <br>
+	* If AI is a big change like dotCom was that spurred Agile what would imagine the process model to be adopted would be? <br>
+ 
+ 	* Would the activities change in the SDLC or would we just change the emphasis of steps? <br>
+
+2. The People Counter Argument <br>
+	* If we could have some form of Taylorism Scientific Software Engineering and just swap out one dev for another dev, what would be required?  Think formality and definition?  If you consider the nature of what we actually do as SWEs does this actually make sense to you?  Why or why not and be concrete in an example. <br>
+
+3. Risk, Time, and Money <br>
+	* Much of the ideas of this segment seem to be about lowering risk and making the outcome more predictable in that we get the software on time and at the agreed upon amount of money.   This does not seem unique to software.  Using the idea of a house or other constructive efforts discuss what we might do to lower risk and improve predictability.  Then provide some examples of the effort despite best intentions not going right.  Be specific and vivid to see how this all may go back to a sense of betting. <br>
+
+4. Which process model makes sense? <br>
+ 	* Given a particular description of a domain, organization, team, type of software, etc. can you make reasonable suggestions for what type of formality and process we should employ.  <br>
+
+	* This is a fairly common sense type of question, if you allow yourself to think with at a broader level.  For example, do you think a very regulated environment would be ok with a process model with few artifacts?  If you were in a start-up environment would a heavy planning and documentation approach make sense?  <br>
+ 
+5. The Cone of Uncertainity <br>
+	* The cone of uncertainity seems to express a simple idea, explain what it is attempting to explain.  Now express why it always being reducing in size might not be accurate view of project reality.  Provide specific statements to show you are applying this to a real world software development situation.
+<br>
+
+6. Applied Iron Triangle <br>
+	* You are presented a diagram of the Iron Triangle filled in or not and you need to explain how it relates to your team project.  You may be asked to do calculations such as developer availability (person hours) and relate it to features showing how estimating effort now becomes very important despite the fact that estimates often can't be precisely done without <br>
+
+7. Thinking in Bets <br>
+	* Much of engineering, software or other forms, is about managing risk.  We would like to accomplish some task and there is likely some risk that we will not succeed.  In some sense, our choices during our engineering process are like bets.  To show your understanding of how you might employ Thinking in Bets write a concrete example of a Software Project decision you might need to make and frame it with the idea of a cost,  a reward, and some % risk.  Provide an example, of a good bet and a bad bet so you demonstrate the thought model.
+<br><br>
 
 * [Lecture: Markdown](https://houses-pay-526.craft.me/I8G9rRG3qhNH9u) <br>
 
