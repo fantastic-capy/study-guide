@@ -374,10 +374,14 @@ Relative units like `em` or `%` help content adapt to different screens and sett
     No, it needs update overtime as the project grows or changes <br>
 
 ---
+[Go Back](#cse-110-midterm-study-guide)
+---
 
 ## Lecture Notes
 
 #### [Lecture 1: SE Intro - Demystification, Definition, and Defiance](https://houses-pay-526.craft.me/BEtiGoivUaqXO5) <br>
+
+##### []() <br>
 
 #### [Lecture 2: Individual Devs](https://houses-pay-526.craft.me/fWTsrhQJjFDYl7) <br>
 
