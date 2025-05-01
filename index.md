@@ -13,9 +13,10 @@
 
   * [Lab 3 - Review and Analyis Questions](#lab-3---review-and-analysis-questions)
 
-  * [Lab 4 - JS, Diagramming and Devtools](#lab-4---js-diagramming-and-devtools)
+* [Lab 4 - JS, Diagramming and Devtools](#lab-4---js-diagramming-and-devtools)
 
 * [Lecture Notes](#lecture-notes)
+
 ---
 
 ## Lab 1 - VSCode, Markdown and Git
