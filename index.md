@@ -11,7 +11,7 @@
 
 * [Lab 3 - CSS and Agile](#lab-3---css-and-agile)
 
-  * [Lab 3 - Review and Analyis Questions](#lab-3---review-and-analyis-questions)
+  * [Lab 3 - Review and Analyis Questions](#lab-3---review-and-analysis-questions)
 
  * [Lab 4 - JS, Diagramming and Devtools](#lab-4---js-diagramming-and-devtools)
 
